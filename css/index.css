@@ -98,7 +98,7 @@ header .titulo{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     width: 350px;
     height: 550px;
