@@ -450,3 +450,25 @@ header .titulo{
     text-align: center;
     width: 100%;
 }
+
+.aBOX{
+    width: 100%;
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.boton3{
+    font-size: 1em;
+      padding: 1.5% 5%;
+      background-color: black;
+      border: 2px black solid;
+      color: white;
+      border-radius: 16px;
+}
+.boton3:hover{
+    background-color: white;
+      color: blue;
+      border: 2px blue solid;
+      transition: all ease-in 0.5s;
+}
