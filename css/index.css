@@ -56,8 +56,8 @@ header .titulo{
 .text-img{
     width: 100%;
 
-    border-bottom: blue 4px solid;
-    border-left: blue 4px solid;
+    border-bottom: rgba(0,120,191,1) 4px solid;
+    border-left: rgba(0,120,191,1) 4px solid;
 }
 @media only screen and (max-width: 739px) {
     .info{
