@@ -178,6 +178,7 @@ header .titulo{
     align-items: center;
     justify-content: center;
     width: 80vw;
+    padding: 5% 0%;
 }
 .info2{
     width: 60%;
