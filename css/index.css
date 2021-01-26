@@ -112,6 +112,7 @@ header .titulo{
     width: 100%;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 .boton{
     background-color: black;
@@ -485,7 +486,10 @@ header .titulo{
     text-align: center;
     width: 100%;
 }
-
+#si2{
+    color: gold;
+    font-size: 0.7em;
+}
 #se{
     color: rgba(0,120,191,1);
     text-align: center;
