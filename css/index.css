@@ -101,7 +101,7 @@ header .titulo{
     justify-content: space-between;
     align-items: center;
     width: 350px;
-    height: 590px;
+    height: 635px;
     padding: 1.5%;
     margin: 4.5% 0%;
     background-color: white;
@@ -473,6 +473,7 @@ header .titulo{
       color: white;
       border-radius: 16px;
       text-align: center;
+    margin-top: 2%;
 }
 .boton3:hover{
     background-color: white;
